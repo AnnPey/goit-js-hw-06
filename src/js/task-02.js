@@ -18,5 +18,3 @@ ingredients.forEach((ingredient) => {
 
   ingredientsList.appendChild(listItem);
 });
-
-console.log(ingredientsList);
